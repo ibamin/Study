@@ -6,11 +6,6 @@ app = Flask("__main__")
 
 @app.route("/", methods=["GET", "POST"])
 def Yacht():
-    print(request)
-    dices = [1, 1, 1, 1, 1]
-    if request.method == "POST":
-        dices = dice_shake()
-        return jsonify({"dices": dices})
     return render_template("Yacht_main.html", dices=dices)
 
 
