@@ -1,20 +1,21 @@
+npm install express-session
 app_default.js
 
-¼¼¼ÇÀ» °ü¸®ÇÏ±âÀ§ÇÑ ¹Ìµé¿ş¾î cookie-session°ú´Â ´Ù¸£°Ô
-µ¥ÀÌÅÍ¸¦ ¼­¹ö¿¡ ÀúÀåÇÏ±â ¶§¹®¿¡ ÄíÅ°º¸´Ù ´õ ¾ÈÀüÇÏ°í ´õ ¸¹Àº µ¥ÀÌÅÍ¸¦
-ÀúÀå°¡´É
+ì„¸ì…˜ì„ ê´€ë¦¬í•˜ê¸°ìœ„í•œ ë¯¸ë“¤ì›¨ì–´ cookie-sessionê³¼ëŠ” ë‹¤ë¥´ê²Œ
+ë°ì´í„°ë¥¼ ì„œë²„ì— ì €ì¥í•˜ê¸° ë•Œë¬¸ì— ì¿ í‚¤ë³´ë‹¤ ë” ì•ˆì „í•˜ê³  ë” ë§ì€ ë°ì´í„°ë¥¼
+ì €ì¥ê°€ëŠ¥
 
-
+npm install session-file-store
 app_store.js
 
-¼¼¼ÇÁ¤º¸¸¦ ÆÄÀÏ·Î ÀúÀåÇØ¼­ °ü¸®°¡´É
-req.session.destory(); ºÎºĞ¿¡¼­
+ì„¸ì…˜ì •ë³´ë¥¼ íŒŒì¼ë¡œ ì €ì¥í•´ì„œ ê´€ë¦¬ê°€ëŠ¥
+req.session.destory(); ë¶€ë¶„ì—ì„œ
 [session-file-store] will retry, error on last attempt: Error: ENOENT: no such file or directory, open 'C:\java\Nodejs\Node\study_node\nodeserver\Middle_ware\express-session\sessions\PRmtBVEIrSUGDsDGq--LDPErfcb2ysCP.json'
-¿Í °°Àº ¿À·ùµéÀÌ ÀÏ¾î³µ´Âµ¥
+ì™€ ê°™ì€ ì˜¤ë¥˜ë“¤ì´ ì¼ì–´ë‚¬ëŠ”ë°
 
-ÀÌÀ¯´Â session-file-store°¡ express-sessionÀÇ ÀÏºÎ¶ó¼­ express-sessionÀÌ ¼¼¼ÇÆÄÀÏÀ» Ã£À» ¼ö ¾øÀ» ¶§ »õÆÄÀÏÀ» ¸¸µé±â ¶§¹®¿¡ ÁÖ¿ä ¹®Á¦´Â ¾Æ´Ï´Ù
+ì´ìœ ëŠ” session-file-storeê°€ express-sessionì˜ ì¼ë¶€ë¼ì„œ express-sessionì´ ì„¸ì…˜íŒŒì¼ì„ ì°¾ì„ ìˆ˜ ì—†ì„ ë•Œ ìƒˆíŒŒì¼ì„ ë§Œë“¤ê¸° ë•Œë¬¸ì— ì£¼ìš” ë¬¸ì œëŠ” ì•„ë‹ˆë‹¤
 
-ÇØ°á ¹æ¾È
-session-file-storeÀÇ
-filestore¿É¼Ç¿¡
-logFn: function(){} À» Ãß°¡ÇÑ´Ù
+í•´ê²° ë°©ì•ˆ
+session-file-storeì˜
+filestoreì˜µì…˜ì—
+logFn: function(){} ì„ ì¶”ê°€í•œë‹¤
