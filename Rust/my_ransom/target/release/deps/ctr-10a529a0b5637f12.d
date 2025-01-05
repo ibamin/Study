@@ -1,0 +1,11 @@
+C:\Users\shrud\Desktop\Study\Rust\my_ransom\target\release\deps\libctr-10a529a0b5637f12.rmeta: C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctr-0.8.0\src\lib.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctr-0.8.0\src\flavors.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctr-0.8.0\src\flavors\ctr128.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctr-0.8.0\src\flavors\ctr32.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctr-0.8.0\src\flavors\ctr64.rs
+
+C:\Users\shrud\Desktop\Study\Rust\my_ransom\target\release\deps\libctr-10a529a0b5637f12.rlib: C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctr-0.8.0\src\lib.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctr-0.8.0\src\flavors.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctr-0.8.0\src\flavors\ctr128.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctr-0.8.0\src\flavors\ctr32.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctr-0.8.0\src\flavors\ctr64.rs
+
+C:\Users\shrud\Desktop\Study\Rust\my_ransom\target\release\deps\ctr-10a529a0b5637f12.d: C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctr-0.8.0\src\lib.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctr-0.8.0\src\flavors.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctr-0.8.0\src\flavors\ctr128.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctr-0.8.0\src\flavors\ctr32.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctr-0.8.0\src\flavors\ctr64.rs
+
+C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctr-0.8.0\src\lib.rs:
+C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctr-0.8.0\src\flavors.rs:
+C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctr-0.8.0\src\flavors\ctr128.rs:
+C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctr-0.8.0\src\flavors\ctr32.rs:
+C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctr-0.8.0\src\flavors\ctr64.rs:

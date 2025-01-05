@@ -1,0 +1,10 @@
+C:\Users\shrud\Desktop\Study\Rust\my_ransom\target\debug\deps\librustc_serialize-ff5a7c07a7e3b737.rmeta: C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\lib.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\serialize.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\collection_impls.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\base64.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\hex.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\json.rs
+
+C:\Users\shrud\Desktop\Study\Rust\my_ransom\target\debug\deps\rustc_serialize-ff5a7c07a7e3b737.d: C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\lib.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\serialize.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\collection_impls.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\base64.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\hex.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\json.rs
+
+C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\lib.rs:
+C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\serialize.rs:
+C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\collection_impls.rs:
+C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\base64.rs:
+C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\hex.rs:
+C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\json.rs:
