@@ -1,0 +1,12 @@
+C:\Users\shrud\Desktop\Study\Rust\my_ransom\target\debug\deps\libgcc-3ce6d7e329f2f68f.rmeta: C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\lib.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\registry.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\winapi.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\com.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\setup_config.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\windows_registry.rs
+
+C:\Users\shrud\Desktop\Study\Rust\my_ransom\target\debug\deps\libgcc-3ce6d7e329f2f68f.rlib: C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\lib.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\registry.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\winapi.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\com.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\setup_config.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\windows_registry.rs
+
+C:\Users\shrud\Desktop\Study\Rust\my_ransom\target\debug\deps\gcc-3ce6d7e329f2f68f.d: C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\lib.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\registry.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\winapi.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\com.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\setup_config.rs C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\windows_registry.rs
+
+C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\lib.rs:
+C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\registry.rs:
+C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\winapi.rs:
+C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\com.rs:
+C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\setup_config.rs:
+C:\Users\shrud\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\windows_registry.rs:

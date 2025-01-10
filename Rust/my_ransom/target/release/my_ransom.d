@@ -1,0 +1,1 @@
+C:\Users\shrud\Desktop\Study\Rust\my_ransom\target\release\my_ransom.exe: C:\Users\shrud\Desktop\Study\Rust\my_ransom\src\main.rs C:\Users\shrud\Desktop\Study\Rust\my_ransom\src\module\crypto.rs C:\Users\shrud\Desktop\Study\Rust\my_ransom\src\module\mod.rs
