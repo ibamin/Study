@@ -1,0 +1,172 @@
+C:\Users\shrud\source\repos\Cshap_group_project\Cshap_group_project\bin\Debug\net6.0-windows\Cshap_group_project.exe
+C:\Users\shrud\source\repos\Cshap_group_project\Cshap_group_project\bin\Debug\net6.0-windows\Cshap_group_project.deps.json
+C:\Users\shrud\source\repos\Cshap_group_project\Cshap_group_project\bin\Debug\net6.0-windows\Cshap_group_project.runtimeconfig.json
+C:\Users\shrud\source\repos\Cshap_group_project\Cshap_group_project\bin\Debug\net6.0-windows\Cshap_group_project.dll
+C:\Users\shrud\source\repos\Cshap_group_project\Cshap_group_project\bin\Debug\net6.0-windows\Cshap_group_project.pdb
+C:\Users\shrud\source\repos\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.csproj.AssemblyReference.cache
+C:\Users\shrud\source\repos\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.Form1.resources
+C:\Users\shrud\source\repos\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.csproj.GenerateResource.cache
+C:\Users\shrud\source\repos\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shrud\source\repos\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.AssemblyInfoInputs.cache
+C:\Users\shrud\source\repos\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.AssemblyInfo.cs
+C:\Users\shrud\source\repos\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.csproj.CoreCompileInputs.cache
+C:\Users\shrud\source\repos\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.dll
+C:\Users\shrud\source\repos\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\refint\Cshap_group_project.dll
+C:\Users\shrud\source\repos\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.pdb
+C:\Users\shrud\source\repos\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.genruntimeconfig.cache
+C:\Users\shrud\source\repos\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\ref\Cshap_group_project.dll
+C:\Users\shrud\source\repos\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.inventory.resources
+C:\Users\shrud\source\repos\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.item1.resources
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project\Cshap_group_project\bin\Debug\net6.0-windows\Cshap_group_project.exe
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project\Cshap_group_project\bin\Debug\net6.0-windows\Cshap_group_project.deps.json
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project\Cshap_group_project\bin\Debug\net6.0-windows\Cshap_group_project.runtimeconfig.json
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project\Cshap_group_project\bin\Debug\net6.0-windows\Cshap_group_project.dll
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project\Cshap_group_project\bin\Debug\net6.0-windows\Cshap_group_project.pdb
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.csproj.AssemblyReference.cache
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.Form1.resources
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.inventory.resources
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.item1.resources
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.csproj.GenerateResource.cache
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.AssemblyInfoInputs.cache
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.AssemblyInfo.cs
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.csproj.CoreCompileInputs.cache
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.dll
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\refint\Cshap_group_project.dll
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.pdb
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.genruntimeconfig.cache
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\ref\Cshap_group_project.dll
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project (2)\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.csproj.AssemblyReference.cache
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project (2)\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.F2.resources
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project (2)\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.Form1.resources
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project (2)\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.inventory.resources
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project (2)\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.csproj.GenerateResource.cache
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project (2)\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project (2)\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.AssemblyInfoInputs.cache
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project (2)\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.AssemblyInfo.cs
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project (2)\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.csproj.CoreCompileInputs.cache
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project (2)\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.dll
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project (2)\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\refint\Cshap_group_project.dll
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project (2)\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.pdb
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project (2)\Cshap_group_project\Cshap_group_project\bin\Debug\net6.0-windows\Cshap_group_project.exe
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project (2)\Cshap_group_project\Cshap_group_project\bin\Debug\net6.0-windows\Cshap_group_project.deps.json
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project (2)\Cshap_group_project\Cshap_group_project\bin\Debug\net6.0-windows\Cshap_group_project.runtimeconfig.json
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project (2)\Cshap_group_project\Cshap_group_project\bin\Debug\net6.0-windows\Cshap_group_project.dll
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project (2)\Cshap_group_project\Cshap_group_project\bin\Debug\net6.0-windows\Cshap_group_project.pdb
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project (2)\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.genruntimeconfig.cache
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project (2)\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\ref\Cshap_group_project.dll
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project (2)\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.Properties.Resources.resources
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project (2)\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.Explain.resources
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project (2)\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.Temp.resources
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project (2)\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.dancedollhint.resources
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project (2)\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.goast.resources
+C:\Users\rob99\OneDrive\바탕 화면\Cshap_group_project (2)\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.paper.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.csproj.AssemblyReference.cache
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\hello0731.BoxOpen.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.dancedollhint.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.Explain.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.F2.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\hello0731.fridge.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.goast.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\hello0731.hint.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.inventory.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\hello0731.Knife.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\hello0731.LivingRoom.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\hello0731.Lock.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\hello0731.miniGame.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.paper.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.Properties.Resources.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.Temp.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.csproj.GenerateResource.cache
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.AssemblyInfoInputs.cache
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.AssemblyInfo.cs
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.csproj.CoreCompileInputs.cache
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.dll
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\refint\Cshap_group_project.dll
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.pdb
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\bin\Debug\net6.0-windows\Cshap_group_project.exe
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\bin\Debug\net6.0-windows\Cshap_group_project.deps.json
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\bin\Debug\net6.0-windows\Cshap_group_project.runtimeconfig.json
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\bin\Debug\net6.0-windows\Cshap_group_project.dll
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\bin\Debug\net6.0-windows\Cshap_group_project.pdb
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.genruntimeconfig.cache
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\ref\Cshap_group_project.dll
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.BodyString.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.Deadbody.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.Finalspace.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.Inbucket.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.Inspace.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.Picture.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.Underground.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.Under_Fridge.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.Under_Paper.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.Warning.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Pr0731.Form10.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Pr0731.ItemForm1.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Pr0731.Form12.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Pr0731.Form3.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Pr0731.Form4.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Pr0731.Form5.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Pr0731.Form6.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Pr0731.Form7.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Pr0731.Form8.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Pr0731.Form9.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.mainscreen.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\bin\Debug\net6.0-windows\Cshap_group_project.exe
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\bin\Debug\net6.0-windows\Cshap_group_project.deps.json
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\bin\Debug\net6.0-windows\Cshap_group_project.runtimeconfig.json
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\bin\Debug\net6.0-windows\Cshap_group_project.dll
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\bin\Debug\net6.0-windows\Cshap_group_project.pdb
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.csproj.AssemblyReference.cache
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.BodyString.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\hello0731.BoxOpen.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.dancedollhint.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.Deadbody.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.Explain.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.F2.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.Finalspace.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Pr0731.Form10.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Pr0731.ItemForm1.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Pr0731.Form12.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Pr0731.Form2.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Pr0731.Form3.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Pr0731.Form4.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Pr0731.Form5.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Pr0731.Form6.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Pr0731.Form7.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Pr0731.Form8.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Pr0731.Form9.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\hello0731.fridge.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.goast.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\hello0731.hint.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.Inbucket.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.Inspace.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.inventory.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\hello0731.Knife.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\hello0731.LivingRoom.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\hello0731.Lock.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.mainscreen.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\hello0731.miniGame.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.paper.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.Picture.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.Properties.Resources.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.Temp.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.Underground.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.Under_Fridge.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.Under_Paper.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.Warning.resources
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.csproj.GenerateResource.cache
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.AssemblyInfoInputs.cache
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.AssemblyInfo.cs
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.csproj.CoreCompileInputs.cache
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.dll
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\refint\Cshap_group_project.dll
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.pdb
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Cshap_group_project.genruntimeconfig.cache
+C:\c#\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\ref\Cshap_group_project.dll
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\Pr0731.Form2.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\test.Buffer.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\test.Endding.resources
+C:\Users\rob99\OneDrive\바탕 화면\Main_Project\Cshap_group_project\Cshap_group_project\obj\Debug\net6.0-windows\hello0731.TestQuiz.resources

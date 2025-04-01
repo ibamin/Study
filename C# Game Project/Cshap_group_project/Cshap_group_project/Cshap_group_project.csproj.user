@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="BodyString.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BoxOpen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Buffer.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="dancedollhint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Deadbody.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Endding.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Explain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Finalspace.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mainscreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fridge.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="goast.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="hint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Inbucket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Inspace.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="inventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Knife.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LivingRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="miniGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="paper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Picture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Temp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TestQuiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Underground.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Under_Fridge.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Under_Paper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Warning.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
